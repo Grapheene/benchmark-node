@@ -1,0 +1,16 @@
+{
+  "name": "benchmark-node",
+  "version": "1.0.0",
+  "description": "A simple benchmark",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "NODE_ENV=production node --prof app.js"
+  },
+  "author": "Grapheene Inc",
+  "license": "GNUv3",
+  "dependencies": {
+    "@grapheene/grapheene": "^0.1.19",
+    "dotenv": "^16.0.1"
+  }
+}

@@ -34,3 +34,5 @@ sync: 2.399s
 ### Conclusion
 
 With Grapheene's KMF and industry leading AES 256bit encryption we can encrypt a 1GB file in about 2 seconds!
+
+```This benchmark was performed on Apple M1, Intel i7-11800H and AMD 5950x all with less than ~2.5 seconds to encrypt a 1GB file.```
